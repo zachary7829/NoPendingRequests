@@ -1,0 +1,9 @@
+Package: com.zachary7829.nopromotedtweets
+Name: NoPromotedTweets
+Author: zachary7829
+Description: Make Promoted Tweets fuck off
+Depends: mobilesubstrate
+Maintainer: zachary7829
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
