@@ -1,0 +1,9 @@
+Package: com.zachary7829.nopendingrequests
+Name: NoPendingRequests
+Author: zachary7829
+Description: Hide pending DM requests on insta
+Depends: mobilesubstrate
+Maintainer: zachary7829
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
